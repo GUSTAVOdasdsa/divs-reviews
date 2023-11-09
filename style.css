@@ -1,0 +1,68 @@
+body{
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(113,113,174,1) 0%, rgba(0,212,255,1) 100%);
+}
+
+.div1{
+    position: relative;
+    margin-top: 10%;
+    left: 10%;
+    height: 233px;
+    width: 731px;
+    background-color: purple;
+
+}
+.div1 img{
+    width: 9%;
+    border-radius:50%;
+    position: relative;
+    bottom: 22%;
+    left: 1.1%;
+}
+.div1 h1{
+    color: white;
+    position: relative;
+    left: 12%;
+}
+
+.div1 p{
+    color: white;
+    position: relative;
+    left: 13%;
+    bottom: 45%;
+}
+.div1 p1{
+    color: white;
+    position: relative;
+    left: 1%;
+    bottom: 37%;
+}
+.div2{
+    position: relative;
+    margin-top: -15.2%;
+    left: 55%;
+    height: 233px;
+    width: 293px;
+    background-color: grey;
+}
+
+.div2 img{
+    border-radius: 50%;
+    position: relative;
+    bottom: 22%;
+    left: 1%;
+    width: 19%;
+}
+.div2 h1{
+    color: white;
+    position: relative;
+    font-size: 193%;
+    left: 21%;
+   
+}
+.div2 p1{
+    color: white;
+    position: relative;
+    bottom: 15%;
+    left: 1%;
+}
