@@ -155,5 +155,30 @@ left: 2%;
     background-color: #02C7BD;
     position: relative;
     left: 25%;
-    margin-top: -23.7%;
+    margin-top: -24.8%;
+}
+.div5 h1{
+    color: white;
+    position: relative;
+    left: 13%;
+    
+}
+.div5 img{
+    position: relative;
+    border-radius: 50%;
+    width: 10.5%;
+    bottom: 11%;
+    left: 1%;
+}
+.div5 p{
+    color: white;
+    position: relative;
+    bottom: 12%;
+}
+.div5 p2{
+    color: white;
+    position: relative;
+    bottom: 103%;
+    left:15%;
+
 }
